@@ -8,6 +8,7 @@ green = "\033[1;92m"
 
 time.sleep(2)
 os.system("cls")
+os.system("clear")
 banner = pyfiglet.figlet_format("maidcoder", font = "standard")
 print(banner)
 print("coder: ABDULGEE")
