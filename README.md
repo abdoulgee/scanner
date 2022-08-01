@@ -7,7 +7,7 @@ this tool it help alot of people to get more information about the target by jus
 
 #= apt update
 
-#= git clone https://github.com/Abdulgee773/scanner
+#= git clone https://github.com/Abdulgee773/scanner.git
 
 #= cd scanner
 
