@@ -3,6 +3,8 @@ this tool it help alot of people to get more information about the target by jus
 
 #= apt upgrade
 
+#= pip install pyfiglet
+
 #= apt update
 
 #= git clone https://github.com/Abdulgee773/numberscanner
