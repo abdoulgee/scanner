@@ -13,4 +13,4 @@ this tool it help alot of people to get more information about the target by jus
 
 #= pip install -r requirements.txt
 
-#= python scanner.py
+#= python numberscanner.py
